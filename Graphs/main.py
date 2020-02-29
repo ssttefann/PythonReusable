@@ -1,5 +1,5 @@
-from Graf.Graph import Graph
-from Graf.GraphNode import GraphNode
+from Graphs.DataStructure.Graph import Graph
+from Graphs.DataStructure.GraphNode import GraphNode
 
 if __name__ == '__main__':
 

@@ -1,4 +1,4 @@
-from GraphEdge import GraphEdge
+from Graphs.DataStructure.GraphEdge import GraphEdge
 
 
 class GraphNode:
