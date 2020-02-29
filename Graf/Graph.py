@@ -1,5 +1,3 @@
-from GraphEdge import GraphEdge
-
 
 class Graph:
 

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Graf.iml" filepath="$PROJECT_DIR$/.idea/Graf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonReusable.iml" filepath="$PROJECT_DIR$/.idea/PythonReusable.iml" />
     </modules>
   </component>
 </project>
